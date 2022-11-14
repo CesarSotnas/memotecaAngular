@@ -1,2 +1,1 @@
-# memotecaAngular
-Exercício - criação de página usando Angular
+Tutorial de uma SPA em Angular
